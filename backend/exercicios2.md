@@ -1,7 +1,7 @@
 **1.** O que é o **Node.js**?
 Explique sua finalidade e por que ele é considerado um ambiente de execução e não uma linguagem de programação.
 
----
+--O Node.js é um ambiente de execução (runtime environment) de código aberto e multiplataforma que permite executar código JavaScript fora de um navegador web, geralmente no servidor-
 
 **2.** Qual a diferença entre **Node.js** e **JavaScript executado no navegador**?
 Cite pelo menos **duas diferenças**.
